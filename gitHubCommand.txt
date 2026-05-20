@@ -1,0 +1,16 @@
+git  ---> list of commands
+
+config --> 
+
+
+git status -->  
+
+git log --> 
+
+git log --oneline
+
+git add .
+git commit -m "msg"
+
+git push origin main
+
