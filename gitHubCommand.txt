@@ -1,20 +1,34 @@
-git  ---> list of commands
-
-config --> 
-
-
-git status -->  
-
-git log --> 
-
+git 
+git status
+git log
 git log --oneline
 
-git add .
-git commit -m "msg"
 
+git config global user.name ""
+git config global user.email ""
+
+
+git add .
+git commit -m "message"
 git push origin main
 
+<<<<<<< HEAD
+------------------
+
+Branches
+-------------
+
+git checkout -b branchName
+
+git branch
+
+
+=======
 --------------------
 This is my new branch
+<<<<<<< HEAD
 
 This is another line 
+=======
+>>>>>>> 2d0b932eb73e329c72e12ddd8597564e305ecc33
+>>>>>>> main
