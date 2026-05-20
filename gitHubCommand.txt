@@ -12,6 +12,7 @@ git add .
 git commit -m "message"
 git push origin main
 
+<<<<<<< HEAD
 ------------------
 
 Branches
@@ -22,3 +23,7 @@ git checkout -b branchName
 git branch
 
 
+=======
+--------------------
+This is my new branch
+>>>>>>> 2d0b932eb73e329c72e12ddd8597564e305ecc33
